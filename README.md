@@ -1,8 +1,5 @@
 # 👋 Hi there! ![](https://komarev.com/ghpvc/?username=Maatarashiii&color=brightgreen&style=flat)
-My name is Nikita! And welcome to my profile. <br>
-**Translate:** <br>
-[🇷🇺](https://github.com/Maatarashiii/Maatarashiii/blob/main/READMME-ru.md)
-
+My name is Nikita! And welcome to my profile.
 
 > **NOTE!** <br>
 > I'm just a beginner developer and my skills can be seen below.
