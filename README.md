@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Maatarashiii/maatarashiii/blob/main/preview.png" width="100"/>
+  <img src="https://github.com/Maatarashiii/maatarashiii/blob/main/preview.png" width="100"/> <br>
     <b>Hi there! 👋</b> <br>
     <img src="https://komarev.com/ghpvc/?username=maatarashiii&style=flat-square&color=blue" alt=""/>
 </div>
