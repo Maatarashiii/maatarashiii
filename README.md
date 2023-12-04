@@ -8,4 +8,4 @@ Here are my favorite skills when I started. ✨
 
 You can also look at my pinned repositories, I advise you to take a look. 📌👀
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
