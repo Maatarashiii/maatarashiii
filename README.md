@@ -7,4 +7,4 @@ My name is Nikita! And welcome to my profile.
 Here are my favorite skills when I started. ✨ <br>
 You can also look at my pinned repositories, I advise you to take a look. 📌👀
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,vscode&theme=light&perline=3)](https://skillicons.dev)
