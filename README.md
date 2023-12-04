@@ -2,7 +2,8 @@
 <h1>Hi there! 👋 <br>
 <img src="https://komarev.com/ghpvc/?username=maatarashiii&style=flat-square&color=blue" alt=""/>
 </h1>
-</div> <br>
+</div>
+
 **About me:** <br>
 My name is Nikita! And welcome to my profile.
 
