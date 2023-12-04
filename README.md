@@ -1,8 +1,8 @@
 <div align="center">
 <h1>👋 Hi there!</h1>
+![](https://komarev.com/ghpvc/?username=Maatarashiii&color=brightgreen&style=flat)
 </div>
 
-![](https://komarev.com/ghpvc/?username=Maatarashiii&color=brightgreen&style=flat)
 My name is Nikita! And welcome to my profile.
 
 > **NOTE!** <br>
