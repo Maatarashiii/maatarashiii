@@ -19,8 +19,8 @@ You can also look at my pinned repositories, I advise you to take a look. 📌�
 
 ## 🔥 My statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maatarashiii&show_icons=true&theme=github_dark&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=maatarashiii&show_icons=true&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maatarashiii&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=maatarashiii&theme=github-dark-blue&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=375&hide_longest_streak=true" />
 </a>
