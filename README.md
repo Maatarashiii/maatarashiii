@@ -1,6 +1,7 @@
 <div align="center">
-<h1>👋 Hi there!</h1>
+<h1>👋 Hi there!
 <img src="https://komarev.com/ghpvc/?username=maatarashiii&style=flat-square&color=blue" alt=""/>
+</h1>
 </div>
 
 My name is Nikita! And welcome to my profile.
