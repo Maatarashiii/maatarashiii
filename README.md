@@ -18,3 +18,5 @@ You can also look at my pinned repositories, I advise you to take a look. 📌�
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,vscode&theme=light)](https://skillicons.dev)
 
 ## 🔥 My statistics:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maatarashiii&theme=dark&background=000000)](https://git.io/streak-stats)
