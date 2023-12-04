@@ -21,4 +21,4 @@ You can also look at my pinned repositories, I advise you to take a look. ğŸ“ŒğŸ
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maatarashiii&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark&hide_border=true)
+![Maatarashiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=maatarashiii&show_icons=true&theme=github_dark&hide_border=true)
