@@ -1,9 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Hi there! 👋 ![](https://komarev.com/ghpvc/?username=Maatarashiii&color=brightgreen&style=flat)
+My name is Nikita! And welcome to my profile.
+> [!NOTE]
+> I'm just a beginner developer and my skills can be seen below.
 
-Hi there! 👋
+Here are my favorite skills when I started. ✨
 
-
+You can also look at my pinned repositories, I advise you to take a look. 📌👀
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
