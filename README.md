@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="" width="100"/>
-<h1>Hi there! 👋 <br>
-<img src="https://komarev.com/ghpvc/?username=maatarashiii&style=flat-square&color=blue" alt=""/>
-</h1>
+  <img src="https://github.com/Maatarashiii/maatarashiii/blob/main/preview.png" width="100"/>
+  <h1>
+    Hi there! 👋 <br>
+    <img src="https://komarev.com/ghpvc/?username=maatarashiii&style=flat-square&color=blue" alt=""/>
+  </h1>
 </div>
 
 **About me:** <br>
