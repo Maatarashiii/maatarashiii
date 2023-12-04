@@ -1,5 +1,5 @@
 <div align="center">
-👋 Hi there!
+<h1>👋 Hi there!</h1>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=Maatarashiii&color=brightgreen&style=flat)
