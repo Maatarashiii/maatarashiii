@@ -14,5 +14,9 @@ My name is Nikita, I'm a beginner developer, glad to meet you, I'm from Russia.
 Here are my favorite skills when I started. ✨ <br>
 You can also look at my pinned repositories, I advise you to take a look. 📌👀
 
-## ⚒️ Languages ​​and tools:
+---
+
+### ⚒️ Languages ​​and tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,vscode&theme=light)](https://skillicons.dev)
+
+### 🔥 My statistics:
