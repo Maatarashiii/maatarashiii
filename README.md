@@ -1,4 +1,8 @@
-# 👋 Hi there! ![](https://komarev.com/ghpvc/?username=Maatarashiii&color=brightgreen&style=flat)
+<div align="center">
+👋 Hi there!
+</div>
+
+![](https://komarev.com/ghpvc/?username=Maatarashiii&color=brightgreen&style=flat)
 My name is Nikita! And welcome to my profile.
 
 > **NOTE!** <br>
