@@ -2,7 +2,7 @@
   <img src="https://github.com/Maatarashiii/maatarashiii/blob/main/preview.png" width="100"/> <br>
   <h1>
     Hi there! 👋 <br>
-    <img src="https://komarev.com/ghpvc/?username=maatarashiii&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=maatarashiii&style=plastic&color=blue" alt=""/>
   </h1>
 </div>
 
