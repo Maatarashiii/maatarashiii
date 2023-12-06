@@ -15,7 +15,7 @@ Here are my favorite skills when I started. ✨ <br>
 You can also look at my pinned repositories, I advise you to take a look. 📌👀
 
 ## ⚒️ Languages ​​and tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,tp,figma,vscode&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,figma,vscode&theme=light&perline=5)](https://skillicons.dev)
 
 ## 🔥 My statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
